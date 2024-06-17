@@ -4,14 +4,14 @@ Sure, here's a filled-in version of your introduction:
 - 👀 I’m interested in artificial intelligence, data engineering, and machine learning.
 - 🌱 I’m currently learning advanced machine learning algorithms, data science techniques, and AI ethics.
 - 💞️ I’m looking to collaborate on innovative AI projects, data analysis, and open-source contributions.
-- 📫 How to reach me: tejeswarnaidu9@gmail.com, www.linkedin.com/in/tejeswar-, https://www.hackerrank.com/profile/tejhoney006
+- 📫 How to reach me: tejeswarnaidu9@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving puzzles and often participate in hackathons to challenge myself and learn new skills.
 <!---
 Tejeswar001/Tejeswar001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
@@ -31,6 +31,24 @@ You can click the Preview link to take a look at your changes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<h3 align="left">Connect with me</h3>
+
+###
+
+<div align="left">
+  <a href="http://www.linkedin.com/in/tejeswar-" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discord.com/users/tej999" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.hackerrank.com/profile/tejhoney006" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+  </a>
 </div>
 
 ###
