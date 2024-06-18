@@ -1,5 +1,3 @@
-Sure, here's a filled-in version of your introduction:
-
 - 👋 Hi, I’m Tejeswar Naidu
 - 👀 I’m interested in artificial intelligence, data engineering, and machine learning.
 - 🌱 I’m currently learning advanced machine learning algorithms, data science techniques, and AI ethics.
