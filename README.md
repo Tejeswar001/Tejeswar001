@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Tejeswar Naidu
+#  Hi, I’m Tejeswar Naidu
 - 👀 I’m interested in artificial intelligence, data engineering, and machine learning.
 - 🌱 I’m currently learning advanced machine learning algorithms, data science techniques, and AI ethics.
 - 💞️ I’m looking to collaborate on innovative AI projects, data analysis, and open-source contributions.
@@ -53,6 +53,13 @@ You can click the Preview link to take a look at your changes.
   <a href="https://www.hackerrank.com/profile/tejhoney006" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
+</div>
+
+###
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tejeswar001&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejeswar001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img height="150" src="https://user-images.githubusercontent.com/51194584/258857674-a1827d5b-af82-45b7-947e-3382f2431c75.gif"  />
 </div>
 
 ###
