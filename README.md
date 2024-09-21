@@ -60,9 +60,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tejeswar001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 <div>-->
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Tejeswar001&label=Profile%20Views&color=12&pretty=true" />
-  </a>
-</div>
-
 ###
