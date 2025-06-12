@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkzazEyYmV6Y2U4YnBvOTA4c28wajJrOXRnbDJqaTVscGk1eDdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="900" height = "400" alt="Dancing Skeleton" />
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="900" height = "200" alt="Dancing Skeleton" />
 </div>
 
 
