@@ -1,4 +1,9 @@
 <div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnkzazEyYmV6Y2U4YnBvOTA4c28wajJrOXRnbDJqaTVscGk1eDdibCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RMwgs5kZqkRyhF24KK/giphy.gif" width="900" height = "400" alt="Dancing Skeleton" />
+</div>
+
+
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Tejeswar001.Tejeswar001&"  />
 </div>
 
