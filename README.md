@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tejeswar001.Tejeswar001&"  />
+</div>
+
 ## 💫 About Me:
 👀 I’m interested in artificial intelligence, data engineering, and machine learning.<br>🌱 I’m currently learning advanced machine learning algorithms, data science techniques, and AI ethics.<br>💞️ I’m looking to collaborate on innovative AI projects, data analysis, and open-source contributions.<br>📫 How to reach me: tejeswarnaidu9@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I love solving puzzles and often participate in hackathons to challenge myself and learn new skills.<br>
 
@@ -11,6 +15,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=Tejeswar001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Tejeswar001&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tejeswar001&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Tejeswar001.Tejeswar001&"  />
-</div>
+
